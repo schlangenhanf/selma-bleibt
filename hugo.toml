@@ -1,0 +1,51 @@
+baseURL = 'https://selma-bleibt.de/'
+locale = 'de-de'
+title = 'Initiative Museum SELMA bleibt'
+defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = false
+
+[languages]
+[languages.de]
+languageName = "Deutsch"
+weight = 1                
+contentDir = "content" 
+
+[languages.de.menus]
+[[languages.de.menus.main]]
+name = "News"
+pageRef = "/news/"
+weight = 1
+
+[[languages.de.menus.main]]
+name = "Termine"
+pageRef = "/termine"
+weight = 2
+
+[[languages.de.menus.main]]
+name = "Presse"
+pageRef = "/presse"
+weight = 3
+
+[[languages.de.menus.main]]
+name = "Kontakt"
+pageRef = "/contact"
+weight = 4
+
+[[languages.de.menus.main]]
+name = "Impressum"
+pageRef = "/impressum"
+weight = 5
+
+[module]
+[[module.imports]]
+disable = false
+ignoreConfig = false
+ignoreImports = false
+path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
+
+[params]
+site_logo = 'Selma_Insta_high3.png'
+background_color_class = 'bg-dark-blue'
+#[[params.ananke]]
+#show_recent_posts = true
+
