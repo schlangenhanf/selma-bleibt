@@ -1,6 +1,5 @@
 +++
 title = 'Termine'
-date = 2026-04-12T09:40:50+02:00
 draft = false
 +++
 
