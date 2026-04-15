@@ -2,6 +2,7 @@
 title = 'Pressespiegel'
 draft = false
 +++
+Stadt Köln - Pressemitteilung vom 18. März 2026:https://www.stadt-koeln.de/leben-in-koeln/soziales/ausschuss-fuer-chancengerechtigkeit-integration/museum-selma-klare-perspektive-fuer-ein-bundesweites-migrationsmuseum-sichern-kalk-als-richtigen-standort-nicht-aufgeben
 
 Rheinische Post vom 8. April 2026: https://rp-online.de/kultur/sanierungsstau-und-interimsloesungen-praegen-die-museumslandschaft-in-koeln_aid-146442891
 
