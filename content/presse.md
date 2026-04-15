@@ -2,6 +2,9 @@
 title = 'Pressespiegel'
 draft = false
 +++
+
+Kölner Stadt-Anzeiger, 10. April 2026: https://www.ksta.de/koeln/koeln-initiative-museum-selma-bleibt-in-kalk-gegruendet-1260028
+
 Rheinische Post vom 8. April 2026: https://rp-online.de/kultur/sanierungsstau-und-interimsloesungen-praegen-die-museumslandschaft-in-koeln_aid-146442891
 
 Köln-In-Sight.com 3. April 2026: http://lebeart-magazin.de/index.php/lebeart-magazin?view=article&id=28214:gründung-der-initiative-„museum-selma-bleibt-“&catid=100
