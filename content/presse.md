@@ -2,6 +2,9 @@
 title = 'Pressespiegel'
 draft = false
 +++
+
+EXPRESS/Die Woche, 17./18.04.2026, auf Seite 2: https://wi-paper.de/show/70f4f7508f4e/epaper
+
 Junge Welt, 16.04.2026: https://www.jungewelt.de/artikel/520971.migrationsmuseum-selma-k%C3%B6ln-welche-bedeutung-h%C3%A4tte-der-standort-kalk.html
 
 Kölner Stadt-Anzeiger, 10. April 2026: https://www.ksta.de/koeln/koeln-initiative-museum-selma-bleibt-in-kalk-gegruendet-1260028

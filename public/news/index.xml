@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Initiative Museum SELMA bleibt</title>
-    <link>https://selma-bleibt.de/news/</link>
+    <link>http://localhost:1313/news/</link>
     <description>Recent content in News on Initiative Museum SELMA bleibt</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 12 Apr 2026 11:47:05 +0200</lastBuildDate>
-    <atom:link href="https://selma-bleibt.de/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Das Museum SELMA braucht Kalk - und Kalk braucht das Museum  SELMA</title>
-      <link>https://selma-bleibt.de/news/flyer/</link>
+      <link>http://localhost:1313/news/flyer/</link>
       <pubDate>Sun, 12 Apr 2026 11:47:05 +0200</pubDate>
-      <guid>https://selma-bleibt.de/news/flyer/</guid>
+      <guid>http://localhost:1313/news/flyer/</guid>
       <description>&lt;p&gt;Ein Dokumentationszentrum und Museum über die Migration in Deutschland (DOMiD) - diese Idee ist über 30 Jahre alt und nun in greifbarer Nähe. Viele Menschen mit und ohne Zuwanderungsgeschichte waren und sind begeistert von dem Prozess, der zum Konzept dieses Museums geführt hat.  Das nun als Museum SELMA bekannte Haus soll in die großartige Halle 70 des ehemaligen KHD-Geländes in Köln Kalk:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ein Museum, das die Geschichte der Migration in diesem Land neu erzählt, als Geschichte von handelnden Personen, nicht von Problemen.&lt;/li&gt;&#xA;&lt;li&gt;Ein Haus, das die Perspektive der Migration in den Mittelpunkt stellt, Migration entdramatisiert und Deutschland als Migrationsgesellschaft erlebbar macht. Und schließlich:&lt;/li&gt;&#xA;&lt;li&gt;Ein Museum, das auch aufgrund der Aura seines Ortes und seiner besonderen Ausstattung ein Magnet für Besucher*innen ist.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Im März 2026 wurde öffentlich, dass das Museum SELMA nicht wie geplant gebaut werden soll. Das Deutsche Museum der Einwanderungsgesellschaft soll nicht in einer repräsentativen Fabrikhalle im Arbeiter-Stadtteil Köln-Kalk auf 10.000 m² Fläche entstehen. Es soll stattdessen in das Völkerkunde-Museum in der Innenstadt integriert und auf einen Bruchteil der Fläche reduziert werden, weil die Umsetzung des eigenen Hauses in Köln Kalk mehr Geld kostet als geplant. Zur Verfügung stehen 44 Millionen Euro, es fehlen 33 Millionen Euro.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Offener Brief: Migrationsmuseum in angemessenen Räumen sichern</title>
-      <link>https://selma-bleibt.de/news/offener-brief/</link>
+      <link>http://localhost:1313/news/offener-brief/</link>
       <pubDate>Sun, 12 Apr 2026 11:46:05 +0200</pubDate>
-      <guid>https://selma-bleibt.de/news/offener-brief/</guid>
+      <guid>http://localhost:1313/news/offener-brief/</guid>
       <description>&lt;p&gt;In Deutschland leben rund 25 Millionen Menschen mit eigener oder familiärer Migrationsgeschichte. Diese Geschichten als fester Bestandteil unserer Gesellschaft müssen museal erzählt werden.&lt;/p&gt;&#xA;&lt;p&gt;Die einzigartige Sammlung des &amp;ldquo;Dokumentationszentrum und Museum über die Migration in Deutschland&amp;rdquo; (DOMiD e.V.) umfaßt die bundesweit größte Sammlung von sozial-, kultur- und alltagsgeschichtlichen Zeugnissen dieser Migrationsgeschichte. Das geplante Museum SELMA macht diese Einwanderungsgeschichte erlebbar.&lt;/p&gt;&#xA;&lt;p&gt;Die Planungen für den Standort in den ehemaligen Industriehallen in Köln-Kalk laufen seit 10 Jahren und sind weitgehend abgeschlossen. Der Architektenentwurf wurde mit dem German Design Award 2026 ausgezeichnet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Brief von Boris Sieverts</title>
-      <link>https://selma-bleibt.de/news/boris-brief/</link>
+      <link>http://localhost:1313/news/boris-brief/</link>
       <pubDate>Fri, 10 Apr 2026 20:30:43 +0200</pubDate>
-      <guid>https://selma-bleibt.de/news/boris-brief/</guid>
+      <guid>http://localhost:1313/news/boris-brief/</guid>
       <description>&lt;p&gt;Sehr geehrte Mitglieder des Rates der Stadt Köln, sehr geehrte Presse in Kopie,&lt;/p&gt;&#xA;&lt;p&gt;vielen Dank für die kurzfristigen Änderungen zum Beschluss den Umzug des Museum Selma betreffend, über den Sie auf der vergangenen Ratssitzung getagt haben. Mit diesen Änderungen bleibt die Tür für das Museum Selma in Kalk wenigstens einen Spalt breit geöffnet. Alles andere wäre nicht nur für Kalk und das Museum Selma eine sehr schlechte Nachricht gewesen, sondern auch ein unnötiger Schnellschuss angesichts offenbar noch nicht vollständig ausgeloteter Alternativen bei der Umsetzung des Projekts in Kalk einerseits und einer noch gar nicht begonnenen öffentlichen Debatte über die Finanzierung des Museums andererseits.&lt;/p&gt;</description>
     </item>
   </channel>
