@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/jan/code/selma-bleibt",
+	"sourceRoot": "/Users/thorzimmermann/selma-bleibt",
 	"sources": [
 		"ananke/css/main.css"
 	],
