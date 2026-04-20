@@ -3,6 +3,18 @@ title = 'Termine'
 draft = false
 +++
 
+**Samstag, 9. Mai 2026, 14 Uhr**
+
+**Kundgebung "Museum Selma bleibt"**
+
+mit zahlreichen Unterstützer*innen, Rede-Beiträgen und Live-Acts
+
+Ort (in Köln-Kalk) wird noch bekannt gegeben. Termin bitte schon mal merken und weiter verbreiten.
+
+---
+
+Vergangene Termine, hier nur dokumentiert:
+
 Vernetzungs- und Aktionstag der Initiative "Museum Selma bleibt"
 - am 18.04. ab 16:00-18:00 Uhr
 - auf dem Kulturhof Kalk, Dillenburger Str. 65, 51105 Köln (https://www.openstreetmap.org/node/13075987090)
