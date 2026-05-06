@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://selma-bleibt.de/news/flyer/</loc>
+    <loc>http://localhost:1313/news/flyer/</loc>
     <lastmod>2026-04-12T11:47:05+02:00</lastmod>
   </url><url>
-    <loc>https://selma-bleibt.de/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-04-12T11:47:05+02:00</lastmod>
   </url><url>
-    <loc>https://selma-bleibt.de/news/</loc>
+    <loc>http://localhost:1313/news/</loc>
     <lastmod>2026-04-12T11:47:05+02:00</lastmod>
   </url><url>
-    <loc>https://selma-bleibt.de/news/offener-brief/</loc>
+    <loc>http://localhost:1313/news/offener-brief/</loc>
     <lastmod>2026-04-12T11:46:05+02:00</lastmod>
   </url><url>
-    <loc>https://selma-bleibt.de/news/boris-brief/</loc>
+    <loc>http://localhost:1313/news/boris-brief/</loc>
     <lastmod>2026-04-10T20:30:43+02:00</lastmod>
   </url><url>
-    <loc>https://selma-bleibt.de/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://selma-bleibt.de/impressum/</loc>
+    <loc>http://localhost:1313/impressum/</loc>
   </url><url>
-    <loc>https://selma-bleibt.de/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://selma-bleibt.de/presse/</loc>
+    <loc>http://localhost:1313/presse/</loc>
   </url><url>
-    <loc>https://selma-bleibt.de/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://selma-bleibt.de/termine/</loc>
+    <loc>http://localhost:1313/termine/</loc>
   </url>
 </urlset>

@@ -7,11 +7,22 @@ draft = false
 
 **Kundgebung "Museum Selma bleibt"**
 
-mit zahlreichen Unterstützer*innen, Rede-Beiträgen und Live-Acts
+Ottmar-Pohl-Platz,
+Köln-Kalk
 
-Ort (in Köln-Kalk) wird noch bekannt gegeben. Termin bitte schon mal merken und weiter verbreiten.
+Redebeiträge von
+- Berîvan Aymaz, Landtagsvize­präsidentin NRW und Landtags­-
+abge­ordnete für Kalk
+- Ahmet Edis, Ausschuss für Chancen­gerechtigkeit und Integration
+- Claudia Greven-Thürmer, Bezirksbürger­meisterin Kalk
+- Lisa Khan, In-Haus e.V.
+- und Vertreterinnen der Initiative „Museum Selma bleibt“
 
----
+Musik: Ozan Ata Canani – Kwaggawerk – May Summer – Kutlu Yurtseven
+
+Moderation: Fatoş Tuna, Kulturvermittlerin
+
+
 
 Vergangene Termine, hier nur dokumentiert:
 
