@@ -3,6 +3,16 @@ title = 'Pressespiegel'
 draft = false
 +++
 
+Kölner Stadt-Anzeiger, 08.05.2026: https://epages.ksta.de/epaper/KS-20260508-20260508.1-kd?page=22&articleId=6386025A-A7CB-4A2E-AA1A-49E8024A8548
+
+WDR 3, 07.05.2026: https://www1.wdr.de/mediathek/audio/wdr3/wdr3-mosaik/audio-diskussion-ueber-migrationsmuseum-selma-in-koeln-102.amp
+
+Kölner Stadt-Anzeiger, 06.05.2026: https://www.ksta.de/koeln/migrationsmuseum-selma-suche-nach-foerdermitteln-schwierig-1273708
+
+WDR, 04.05.2026: https://www1.wdr.de/nrw/koeln/migrationsmusem-selma-jetzt-doch-nach-kalk-100.html
+
+StadtRevue Köln, Mai 2026: https://www.stadtrevue.de/artikel-archiv/artikelarchiv/09650-ver-kalk-uliert/
+
 kultur.west, 29.04.2026: https://www.kulturwest.de/inhalt/neuer-standort-fuer-selma/
 
 Kölner Stadt-Anzeiger, 28.04.2026: https://www.ksta.de/kultur-medien/koelner-migrationsmuseum-selma-kommt-die-rettung-aus-berlin-1271813
