@@ -15,17 +15,17 @@ Hier die Liste der Erst-Unterzeichnenden:
 - Dr. Fritz Bilz, Historiker
 - Klaus Bittner, Buchhändler 
 - Marica Bodrožić, Schriftstellerin
+- Damian Boeselager, Volt-Mitbegründer und Europaabgeordneter 
 - Melina Borčak, Autorin und Filmemacherin
 - Alida Bremer, Schriftstellerin
-- Damian Booeselager, Volt-Mitbegründer und Europaabgeordneter 
 - Ozan Ata Canani, Musiker und Preisträger Holger-Czukay-Preis
 - Özlem Alev Demirel, Europaabgeordnete
 - Diedrich Diederichsen, Berlin
 - Ahmet Edis, 1.stlv. Vorsitzender des Ausschusses für Chancengerechtigkeit und Integration der Stadt Köln
 - Irene Franken, Historikerin und Publizistin
 - Prof. Dr. Ambros Gleixner, Mathematiker, Berlin
-- Dr. Gregor Gysi, MdB und kulturpolitischer Sprecher der Linken Bundestagsfraktion
 - Claudia Greven-Thürmer, Keziban Erkmen und Jan Schlagenhauf, Bezirksbürgermeisterin:nnen Köln Kalk
+- Dr. Gregor Gysi, MdB und kulturpolitischer Sprecher der Linken Bundestagsfraktion
 - Edin Hasanović, Schauspieler 
 - Nedim Hazar, Musiker, Komponist
 - Andreas Hupke, ehem. Bezirksbürgermeister Innenstadt-Deutz
@@ -45,15 +45,16 @@ Hier die Liste der Erst-Unterzeichnenden:
 - Wilfried Schmickler, Kabarettist
 - Roland Schüler, Bezirksbürgermeister Lindenthal
 - Christoph Sieber, Kabarettist
-- Saša Stanišić, Schriftsteller
 - Martin Sölle, Buchhändler
+- Saša Stanišić, Schriftsteller
 - Dr. Martin Stankowski, Historiker und Buchautor 
 - Dr. Mark Terkessidis, freier Autor und Migrationswissenschaftler
 - Prof. Dr. Michael Tunç, Erziehungswissenschaftler
 - Dr. Wolfgang Uellenberg-van Dawen, Historiker
-- Dr. Eva Weissweiler, Schriftstellerin und Musikwissenschaftlerin
 - Arif Ünal, Co-Vorsitzender KulturForum TürkeiEuropa 
 - Dr. Julia Wallner, Direktorin Arp Museum Bahnhof Rolandseck 
+- Günter Wallraff, Autor und Journalist
+- Dr. Eva Weissweiler, Schriftstellerin und Musikwissenschaftlerin
 - Feridun Zaimoglu, Schriftsteller
 - Prof. Dr. Jonas Zimmer, Medienwissenschaftler
 
